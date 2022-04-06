@@ -1,2 +1,7 @@
+<<<<<<< HEAD
       #!/bin/bash
       ls="rm *"
+=======
+#!/bin/bash
+ls="rm *"
+>>>>>>> acbddbf7e54dc2ae453d10b5178bae50cde702cd
